@@ -566,6 +566,9 @@ body {
 .works_container::after {
     content: "";
     width: 35%;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    padding: 50px 5%;
 }
 
 .works_items {
